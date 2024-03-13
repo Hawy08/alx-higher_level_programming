@@ -1,0 +1,2 @@
+--Show DBs
+SHOW DATABASE;

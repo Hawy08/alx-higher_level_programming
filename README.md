@@ -1,2 +1,4 @@
 # alx-higher_level_programming
- ALX hiher level programming
+ALX higher level programming
+1. python
+2 .SQL

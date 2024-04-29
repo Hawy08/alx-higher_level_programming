@@ -2,8 +2,8 @@
 import urllib.request
 
 """
-script that fetches https://alx-intranet.hbtn.io/status
-"""   
+Script that fetches https://alx-intranet.hbtn.io/status and prints information about the response.
+"""
 
 if __name__ == "__main__":
     with urllib.request.urlopen('https://alx-intranet.hbtn.io/status') as response:
@@ -11,5 +11,4 @@ if __name__ == "__main__":
         print("Body response:")
         print("\t- type: {}".format(type(body)))
         print("\t- content: {}".format(body))
-        print("\t- utf8 content: {}".format(body.decode(encoding="utf -8")))
-        
+        print("\t- utf8 content: {}".format(body.decode(encoding="utf-8")))

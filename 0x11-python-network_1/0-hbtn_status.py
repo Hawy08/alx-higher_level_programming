@@ -2,7 +2,11 @@
 import urllib.request
 
 """
-Script that fetches https://alx-intranet.hbtn.io/status and prints information about the response.
+Script that fetches the status of the Alx Intranet website and prints information about the response.
+
+This script utilizes the urllib.request module to make an HTTP GET request to the URL https://alx-intranet.hbtn.io/status.
+It then retrieves the response body and prints information about it, including the type of the response body, the raw content,
+and the decoded content assuming it is encoded in UTF-8.
 """
 
 if __name__ == "__main__":

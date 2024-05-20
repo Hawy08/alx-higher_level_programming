@@ -6,3 +6,6 @@ This program assigns a random signed number to the variable number each time it 
 
 ***Random Number Last Digit Checker***
 This program assigns a random signed number to the variable number each time it is executed and prints the last digit of the number along with a specific message based on the value of the last digit.
+
+***ASCII Alphabet Printer***
+This Python program prints the ASCII alphabet in lowercase, without a newline after each character.

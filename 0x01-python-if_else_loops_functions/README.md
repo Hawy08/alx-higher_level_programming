@@ -9,3 +9,6 @@ This program assigns a random signed number to the variable number each time it 
 
 ***ASCII Alphabet Printer***
 This Python program prints the ASCII alphabet in lowercase, without a newline after each character.
+
+***ASCII Alphabet Printer***
+This Python program prints the ASCII alphabet in lowercase, without a newline after each character except q and q.

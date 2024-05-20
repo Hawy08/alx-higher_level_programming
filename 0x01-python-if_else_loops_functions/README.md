@@ -27,3 +27,6 @@ This Python script defines a function `islower(c)` to check whether a given char
 
 # Uppercase Converter#
 This Python script defines a function `uppercase(str)` to convert a given string to uppercase.
+
+# Last Digit Printer
+This Python script defines a function `print_last_digit(number)` to print the last digit of a given number.

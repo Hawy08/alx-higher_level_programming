@@ -12,3 +12,6 @@ This Python program prints the ASCII alphabet in lowercase, without a newline af
 
 ***ASCII Alphabet Printer***
 This Python program prints the ASCII alphabet in lowercase, without a newline after each character except q and q.
+
+***Decimal and Hexadecimal Number Printer***
+This Python program prints all numbers from 0 to 98 in both decimal and hexadecimal formats, satisfying specific constraints.

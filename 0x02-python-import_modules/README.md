@@ -1,6 +1,8 @@
-#Add
+##Add
 A program to add 2 numbers
-#Calculator
+##Calculator
 Perfome various calculations
-#Argv
+##Argv
 Count and display the arguments
+##Infinite addition
+Add infinitely
